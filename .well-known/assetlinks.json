@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.synapse12",
+        "sha256_cert_fingerprints": ["6C:2A:09:1E:EB:A3:B1:68:EA:94:3F:2D:AA:BB:DB:66:12:68:4B:2A:BD:7D:2E:13:FB:F5:04:D1:37:49:95:8B"]
+      }
+    }]
